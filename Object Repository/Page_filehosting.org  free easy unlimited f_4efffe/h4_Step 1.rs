@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Step 1</name>
+   <tag></tag>
+   <elementGuidId>c4ef3f0f-8d76-48a4-a093-dd6d3149cc57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>ba2f3311-3006-4d56-afc4-52690af42366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Step 1</value>
+      <webElementGuid>b6e92349-085c-4ba9-81f3-707e3e83176b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;row-fluid&quot;]/div[@class=&quot;span12&quot;]/h4[1]</value>
+      <webElementGuid>a0df47d0-48ef-4a54-b0a9-f1b9bc11ba4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div/div/h4</value>
+      <webElementGuid>1e65413c-cc13-4cce-ab41-de6ebaac7a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filehosting - free, easy and fast!'])[1]/following::h4[1]</value>
+      <webElementGuid>14ad26ac-6473-4713-9f18-225d23e27164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a file:'])[1]/preceding::h4[1]</value>
+      <webElementGuid>dc2b530a-e702-427b-ba65-e91bc04a05c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step 2'])[1]/preceding::h4[1]</value>
+      <webElementGuid>f6447124-911b-4356-9037-6446c9d4268c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Step 1']/parent::*</value>
+      <webElementGuid>262beb74-ce0a-4a39-bd86-038634871a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>2fe43d68-95b0-479b-9493-534d70af16cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Step 1' or . = 'Step 1')]</value>
+      <webElementGuid>78a13499-b808-4196-a24a-cc83398b5448</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
